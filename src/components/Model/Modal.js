@@ -1,5 +1,5 @@
 import React from 'react';
-import { Typography, Divider, Chip, TextField, Button } from '@material-ui/core';
+import { Typography, Divider, Chip } from '@material-ui/core';
 import SimpleModal from '@material-ui/core/Modal';
 
 import useStyles from './styles';
